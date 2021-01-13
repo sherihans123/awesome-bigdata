@@ -21,6 +21,7 @@ Your contributions are always welcome!
   - [Time-Series Databases](#time-series-databases)
   - [SQL-like processing](#sql-like-processing)
   - [Data Ingestion](#data-ingestion)
+  - [Big Data tutorial](#big-data-tutorial)
   - [Service Programming](#service-programming)
   - [Scheduling](#scheduling)
   - [Machine Learning](#machine-learning)
@@ -378,6 +379,9 @@ You can read more about this distinction on Prof. Daniel Abadi's blog: [Distingu
 * [StreamSets Data Collector](https://github.com/streamsets/datacollector) - continuous big data ingest infrastructure with a simple to use IDE.
 * [Alooma](https://www.alooma.com/integrations/mysql) - data pipeline as a service enabling moving data sources such as MySQL into data warehouses.
 * [RudderStack](https://github.com/rudderlabs/rudder-server) - an open source customer data infrastructure (segment, mParticle  alternative) written in go.
+
+## Big Data Tutorial
+* [Big Data Hadoop tutorial](https://intellipaat.com/blog/tutorial/big-data-and-hadoop-tutorial/) - Learn Big Data and Hadoop from Experts
 
 ## Service Programming
 
